@@ -1,2 +1,2 @@
 # CursoDjango
-Curso Django Ing. Nava 
+Curso Django imaprtido Ing. Nava 
